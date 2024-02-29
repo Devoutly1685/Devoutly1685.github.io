@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This blog will detail my journet about learning about large language models
 
-Maybe say a some things about yourself.
+I have a background in tech but a lot of this is new to me.
 
-Or maybe what you plan to blog about.
+I'm hoping this will be a great learning experience for myself and others.
